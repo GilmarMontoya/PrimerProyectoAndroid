@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Primer Proyecto Android</string>
+    <string name="imagen_desc">imagen</string>
+    <string name="texto_inicio">Bienvenido</string>
+    <string name="texto_boton">Entrar</string>
+    <string name="texto_bienvenida">Bienvenido</string>
+</resources>
